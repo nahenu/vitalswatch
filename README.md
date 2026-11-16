@@ -2,6 +2,8 @@
 
 **Catch the deploy that made your site slow.**
 
+**Live:** [vitalswatch-coral.vercel.app](https://vitalswatch-coral.vercel.app) · **Demo report (no sign-up):** [vitalswatch-coral.vercel.app/r/demo](https://vitalswatch-coral.vercel.app/r/demo)
+
 VitalsWatch tests your pages every day with Lighthouse, tracks real-user Core Web Vitals from the Chrome UX Report, lines every dip up with the release that caused it, and emails you before your users notice. Every report explains *why* a page is slow, with the exact files and a fix you can paste, and can be shared as a link or downloaded as a PDF.
 
 Built with Next.js 16, React 19, TypeScript, PostgreSQL (Neon), Drizzle ORM and Better Auth.
